@@ -8,4 +8,5 @@ Through a series of experiments I will seek to determine which of these factors 
 
 References:
 1. Thanks to Dr. Nathaniel Stevens' 'MSDS629: Experiments in Data Science' course at the University of San Francisco!
+2. Thanks to Shagun Kala, Obtin Zandian and Mark Lam for being brilliant teammates!
 
